@@ -1,4 +1,5 @@
 remote_theme: pages-themes/time-machine@v0.2.0
-plugins: - jekyll-remote-theme
+plugins:
+  - jekyll-remote-theme
 title: Mariyam Aqeel
-description: First year Engineering student passionate about software development,data structures,and building effecient solutions to real world problems.
+description: First-year CSE student passionate about software development, data structures, and building efficient solutions to real-world problems.
